@@ -1,3 +1,7 @@
 ﻿
+# Automatic installation
 npx -y create-next-app
+
+# Manual installation
+npm install next react react-dom
 

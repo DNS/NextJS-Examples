@@ -1,0 +1,3 @@
+﻿
+npx -y create-next-app
+

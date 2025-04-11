@@ -1,7 +1,22 @@
 ﻿
-# Automatic installation
+# Automatic installation (recommended)
 npx -y create-next-app
+
+---------------------------------
+
 
 # Manual installation
 npm install next react react-dom
+
+# package.json
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
+
+
 
